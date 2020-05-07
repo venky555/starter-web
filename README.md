@@ -7,4 +7,11 @@ This is a simple website created by me for fun and learning
 
 ## Deployment
 
+
+## this is change in stagin area
+
+## More changes done 
+
+##Add this for more 
+
 Sample website with plenty of files for demos
